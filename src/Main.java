@@ -16,7 +16,6 @@ public class Main
         if (itemPrice >= freeShipping)
         {
             shippingCost = 0;
-
         }
         else
         {
